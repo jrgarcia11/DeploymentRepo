@@ -1,0 +1,1 @@
+2017-05-01 15:51:51,278 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.revature:PipelineDemo:0.0.1-SNAPSHOT @ C:\Users\jrene\DeploymentRepo\PipelineDemo\pom.xml.
